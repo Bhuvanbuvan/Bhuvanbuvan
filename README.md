@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bhuvaneshwaran K.</h1>
 <h3 align="center">🚀 Flutter Developer | Android 📱 | iOS 🍎 | Desktop 💻</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</p>
+
 
 ---
+
 
 ### 🧠 About Me
 - 👨‍💻 Full-time Flutter Developer  
@@ -13,6 +12,14 @@
 - 🎯 Focused on clean architecture & performance  
 - 🌱 Currently exploring: **Flutter Web**, **Animations**, and **Firebase integrations**  
 - ⚡ Fun fact: I can turn coffee ☕ into code ⚙️
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhuvaneshwarank&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvaneshwarank&theme=radical" width="48%"/>
+</p>
 
 ---
 
@@ -31,13 +38,7 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhuvaneshwarank&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvaneshwarank&theme=radical" width="48%"/>
-</p>
 
----
 
 ### 🔗 Connect with Me
 <p align="left">
